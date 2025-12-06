@@ -1,0 +1,5 @@
+google.com
+wikipedia.org
+github.com
+stackoverflow.com
+khanacademy.org

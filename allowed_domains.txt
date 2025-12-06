@@ -1,0 +1,10 @@
+google.com
+openai.com
+harvard.edu
+mit.edu
+stanford.edu
+auc.edu.eg
+khanacademy.org
+coursera.org
+edx.org
+wikipedia.org
